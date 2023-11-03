@@ -21,4 +21,4 @@ To use this isometric social media buttons project, follow these simple steps:
 1. Clone the repository to your local machine:
 
    ```sh
-   git clone https://sam-kaushik242.github.io/Isometric-3D-Button/.git
+   git clone https://Sam-Kaushik242/Isometric-3D-Button.git
